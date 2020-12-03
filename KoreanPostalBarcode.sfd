@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
-FontName: OKKoreanBarcode
-FullName: OKKoreanBarcode
-FamilyName: OKKoreanBarcode
+FontName: KoreanPostalBarcode
+FullName: KoreanPostalBarcode
+FamilyName: KoreanPostalBarcode
 Weight: Regular
-Copyright: Copyright (c) 2020, ramthun
+Copyright: https://github.com/kRamthun/korean-postal-barcode
 UComments: "2020-12-2: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
