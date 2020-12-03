@@ -1,0 +1,385 @@
+SplineFontDB: 3.2
+FontName: OKKoreanBarcode
+FullName: OKKoreanBarcode
+FamilyName: OKKoreanBarcode
+Weight: Regular
+Copyright: Copyright (c) 2020, ramthun
+UComments: "2020-12-2: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Hinten" 1
+Layer: 1 0 "Vorne" 0
+XUID: [1021 790 353290493 25159]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1606920261
+ModificationTime: 1606921578
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 34 13
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 10
+
+StartChar: zero
+Encoding: 48 48 0
+Width: 3000
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 1157 0 800 2.5 2.5
+M,6r;%14!\!!!!.8Ou6I!!!/+!!!%]!<W<%!/,\,*<6'>##Ium7=]o=s8W,^er?a2!!!%A;GL-k
+2rWui!!!-R8OPjDGQI3#6&mHM#R0C's(EC3U\QF-`Bu?f7S'j70A=Fe8lRD_V7V5+UA[/\m;EXR
+hoELGebR\4c_#Z4qr)oS5@4k''.D4Zf$W%UZ'aJ)E^bGt/RN0WX6A!#1/HgDDW+V/R$Z.Y$7aGE
+)l.9F646uVak=<iJ6TO;>=lW)pPboS(q\#Qd%^8nUpCoMbiI-FpPboC&g'q$!'LtAH9d&4":DN/
+FgSPC/1*?c>`mo`b84@/._<!abS.L?>I]q$k2iqZJkG[j#3f=*d"7R._VN"K-:5(^2,@&*'CaA#
+f$S(A\5(kb7HZVVX$tr-FiV#bJ7?@WOau!b$FD-VTEVHmXVG;"_7AZbr/P!qd"5<GV);hU^b+?Y
+XX#SRT>_OEU?=F*fCFV2[)<XGST=2+k\rL(3$=(j(=<7W])oGg(nh,8UWk!%S[r<hc>T@WMnjK#
+NcF@c`Ic>Z!NcS@BMG-b$X-&)/&YnKF3><o*OgEi"g+LlCW\bj>I]Ak8RPjgM^t_ocY\cHjU3YR
+M'kD<i,M'1J]@qh=78.E3DN6G=@<fNm0_X;@"]<&N])g2Fm=u=3kp5P/HXP'43"B-'FQg["LK4H
+TJ_9%/SH/AXUpBsc7N,YGMMbC(:8rOXXWiEDW)@K-%U@;/?YWY4h!_gQ7oV<-(aUFKnh0I#9L&;
+E2<nM&UL#G6l&]Bf5e-P]Z`g[O3[oc"e%p_=q<%.RQuE>[#VRqLrBM[Q7MMfDYZU,>"+e/P^*>>
+E!s.<^q>%1=&=aFgE9eF(L#/u:O[Ac!OjB_5mpjd>:[X$JlCM@q&QqlT`qQm95D[4JQoX<>=i4/
+5)Uqi7*f_3Y2p$CBSe,7:ZQ)QU'!'Tn1mWO_BSV5q2$Z"4KddT&UBe&J01Bg'FQaY"LK4HTJ_9%
+/SH/AXUpBsc7N,YGMMbC(:8rOXXWiEDW)@K-%U@;/?YWY4h!_gQ7oV<-(b%s<Wd56'S7+-Nj_uE
+`<<*O/+Pc>q*GHm7@2SiGlkHo$b);7]R1Jr:l1du+C3/,>0mmXpn,XN/4BeMB&R<e.YL7SFn-2K
+9R0md`?Ok.(BH`a%k&3,*XQLCTKm8o"^986g0,X8':`:0aR?Y#$S?$,?!:1h$/EBLge%Y>nl]3`
+-$jH]F=gj55ta?9c)h3*ROA:jBH:rl&;piiGus'Nh"$.7[#-K<.J![[i>-;WJU.&BY+QCj[m@Tk
+0=7AuT("t,QW]1U]Ze79/6)t6d-Ka?ZC(3mQA\2mAM+%5Hlc*8co_rfH9d&4":DN/FgSPC/1*?c
+>`mo`b84@/._<!abS.L?>I]q$k2iqZJkG[j#3f=*d"7R.ns`hm\2@+h>!'*?UA[/\m8"Dq!FF/0
+-\AkQ(]XO9!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+2500 -200 m 25
+ 2625 -200 l 25
+ 2625 800 l 25
+ 2500 800 l 25
+ 2500 -200 l 25
+1000 -200 m 25
+ 1125 -200 l 25
+ 1125 800 l 25
+ 1000 800 l 25
+ 1000 -200 l 25
+500 -200 m 25
+ 625 -200 l 25
+ 625 800 l 25
+ 500 800 l 25
+ 500 -200 l 25
+0 -200 m 25
+ 125 -200 l 25
+ 125 800 l 25
+ 0 800 l 25
+ 0 -200 l 25
+EndSplineSet
+Validated: 9
+EndChar
+
+StartChar: one
+Encoding: 49 49 1
+Width: 3000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2500 -200 m 25
+ 2625 -200 l 25
+ 2625 800 l 25
+ 2500 800 l 25
+ 2500 -200 l 25
+2000 -200 m 25
+ 2125 -200 l 25
+ 2125 800 l 25
+ 2000 800 l 25
+ 2000 -200 l 25
+1500 -200 m 25
+ 1625 -200 l 25
+ 1625 800 l 25
+ 1500 800 l 25
+ 1500 -200 l 25
+1000 -200 m 25
+ 1125 -200 l 25
+ 1125 800 l 25
+ 1000 800 l 25
+ 1000 -200 l 25
+EndSplineSet
+Validated: 9
+EndChar
+
+StartChar: two
+Encoding: 50 50 2
+Width: 3000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2500 -200 m 25
+ 2625 -200 l 25
+ 2625 800 l 25
+ 2500 800 l 25
+ 2500 -200 l 25
+2000 -200 m 25
+ 2125 -200 l 25
+ 2125 800 l 25
+ 2000 800 l 25
+ 2000 -200 l 25
+1500 -200 m 25
+ 1625 -200 l 25
+ 1625 800 l 25
+ 1500 800 l 25
+ 1500 -200 l 25
+500 -200 m 25
+ 625 -200 l 25
+ 625 800 l 25
+ 500 800 l 25
+ 500 -200 l 25
+EndSplineSet
+Validated: 9
+EndChar
+
+StartChar: three
+Encoding: 51 51 3
+Width: 3000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2500 -200 m 25
+ 2625 -200 l 25
+ 2625 800 l 25
+ 2500 800 l 25
+ 2500 -200 l 25
+2000 -200 m 25
+ 2125 -200 l 25
+ 2125 800 l 25
+ 2000 800 l 25
+ 2000 -200 l 25
+1500 -200 m 25
+ 1625 -200 l 25
+ 1625 800 l 25
+ 1500 800 l 25
+ 1500 -200 l 25
+0 -200 m 25
+ 125 -200 l 25
+ 125 800 l 25
+ 0 800 l 25
+ 0 -200 l 25
+EndSplineSet
+Validated: 9
+EndChar
+
+StartChar: four
+Encoding: 52 52 4
+Width: 3000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2500 -200 m 25
+ 2625 -200 l 25
+ 2625 800 l 25
+ 2500 800 l 25
+ 2500 -200 l 25
+2000 -200 m 25
+ 2125 -200 l 25
+ 2125 800 l 25
+ 2000 800 l 25
+ 2000 -200 l 25
+1000 -200 m 25
+ 1125 -200 l 25
+ 1125 800 l 25
+ 1000 800 l 25
+ 1000 -200 l 25
+500 -200 m 25
+ 625 -200 l 25
+ 625 800 l 25
+ 500 800 l 25
+ 500 -200 l 25
+EndSplineSet
+Validated: 9
+EndChar
+
+StartChar: five
+Encoding: 53 53 5
+Width: 3000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2500 -200 m 25
+ 2625 -200 l 25
+ 2625 800 l 25
+ 2500 800 l 25
+ 2500 -200 l 25
+2000 -200 m 25
+ 2125 -200 l 25
+ 2125 800 l 25
+ 2000 800 l 25
+ 2000 -200 l 25
+1000 -200 m 25
+ 1125 -200 l 25
+ 1125 800 l 25
+ 1000 800 l 25
+ 1000 -200 l 25
+0 -200 m 25
+ 125 -200 l 25
+ 125 800 l 25
+ 0 800 l 25
+ 0 -200 l 25
+EndSplineSet
+Validated: 9
+EndChar
+
+StartChar: six
+Encoding: 54 54 6
+Width: 3000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2500 -200 m 25
+ 2625 -200 l 25
+ 2625 800 l 25
+ 2500 800 l 25
+ 2500 -200 l 25
+2000 -200 m 25
+ 2125 -200 l 25
+ 2125 800 l 25
+ 2000 800 l 25
+ 2000 -200 l 25
+500 -200 m 25
+ 625 -200 l 25
+ 625 800 l 25
+ 500 800 l 25
+ 500 -200 l 25
+0 -200 m 25
+ 125 -200 l 25
+ 125 800 l 25
+ 0 800 l 25
+ 0 -200 l 25
+EndSplineSet
+Validated: 9
+EndChar
+
+StartChar: seven
+Encoding: 55 55 7
+Width: 3000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2500 -200 m 25
+ 2625 -200 l 25
+ 2625 800 l 25
+ 2500 800 l 25
+ 2500 -200 l 25
+1500 -200 m 25
+ 1625 -200 l 25
+ 1625 800 l 25
+ 1500 800 l 25
+ 1500 -200 l 25
+1000 -200 m 25
+ 1125 -200 l 25
+ 1125 800 l 25
+ 1000 800 l 25
+ 1000 -200 l 25
+500 -200 m 25
+ 625 -200 l 25
+ 625 800 l 25
+ 500 800 l 25
+ 500 -200 l 25
+EndSplineSet
+Validated: 9
+EndChar
+
+StartChar: eight
+Encoding: 56 56 8
+Width: 3000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2500 -200 m 25
+ 2625 -200 l 25
+ 2625 800 l 25
+ 2500 800 l 25
+ 2500 -200 l 25
+1500 -200 m 25
+ 1625 -200 l 25
+ 1625 800 l 25
+ 1500 800 l 25
+ 1500 -200 l 25
+1000 -200 m 25
+ 1125 -200 l 25
+ 1125 800 l 25
+ 1000 800 l 25
+ 1000 -200 l 25
+0 -200 m 25
+ 125 -200 l 25
+ 125 800 l 25
+ 0 800 l 25
+ 0 -200 l 25
+EndSplineSet
+Validated: 9
+EndChar
+
+StartChar: nine
+Encoding: 57 57 9
+Width: 3000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2500 -200 m 25
+ 2625 -200 l 25
+ 2625 800 l 25
+ 2500 800 l 25
+ 2500 -200 l 25
+1500 -200 m 25
+ 1625 -200 l 25
+ 1625 800 l 25
+ 1500 800 l 25
+ 1500 -200 l 25
+500 -200 m 25
+ 625 -200 l 25
+ 625 800 l 25
+ 500 800 l 25
+ 500 -200 l 25
+0 -200 m 25
+ 125 -200 l 25
+ 125 800 l 25
+ 0 800 l 25
+ 0 -200 l 25
+EndSplineSet
+Validated: 9
+EndChar
+EndChars
+EndSplineFont
